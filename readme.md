@@ -13,6 +13,7 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#application-structure">Application Structure</a> •
+  <a href="#credits">Credits</a> •
   <a href="#license">License</a>
 </p>
 
