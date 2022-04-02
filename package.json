@@ -44,5 +44,16 @@
     "src/**/*.{ts,tsx}": [
       "eslint"
     ]
-  }
+  },
+  "author": {
+    "name": "Sayeed Afridi",
+    "email": "as.afridi563@gmail.com"
+  },
+  "repository": {
+    "type": "public",
+    "url": "https://github.com/SayeedAfridi/react-vite.git"
+  },
+  "homepage": "https://github.com/SayeedAfridi/react-vite#readme",
+  "license": "MIT",
+  "keywords": ["react", "boilerplate", "vite", "react-bilerpate", "react-vite"]
 }

@@ -68,9 +68,9 @@ $ yarn dev
     ├── tsconfig.json           # Configure typescript
     ├── tsconfig.node.json      # Configure typescript for node and vite
     ├── package.json            # The NPM config file for all the packages installed and scripts and more
-    ├── .eslintrc               # Configure Eslint
+    ├── .eslintrc.js            # Configure Eslint
     ├── .gitignore              # ignore certain files for git (example: .env)
-    ├── .prettierrc             # Configure prettier (example: .env)
+    ├── .prettierrc.js          # Configure prettier (example: .env)
     ├── vite.config.ts          # Configure vite
 
 ## Credits
